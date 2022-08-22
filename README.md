@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bobzero23
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Spring Framework
 - 💞️ I’m looking to collaborate with anyone
 - 📫 This is my twitter accoung     Bobzero_23
 
