@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bobzero23
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Spring Framework
-- 💞️ I’m looking to collaborate with anyone
-- 📫 This is my twitter accoung     Bobzero_23
+- 👋 Hi, I’m Bobzero
+- 👀 I’m interested in coding and learning new stuffs
+- 🌱 I’m currently learning Java Spring Framework
+- 💞️ I’m looking forward to collaborate with anyone
+- 📫 Reach me on twitter Bobzero_23
 
 <!---
 Bobzero23/Bobzero23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
