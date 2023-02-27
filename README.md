@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bobzero
-- 👀 I’m interested in coding and learning new stuffs
-- 🌱 I’m currently learning Java Spring Framework
+- 👀 I’m super interested in learning new coding stuffs
+- 🌱 I’m currently learning Java For Back-end, Front-end and Data Structures.
 - 💞️ I’m looking forward to collaborate with anyone
-- 📫 Reach me on twitter Bobzero_23
+- 📫 Reach me here rajabu.mustafa.00@gmail.com
 
 <!---
 Bobzero23/Bobzero23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
