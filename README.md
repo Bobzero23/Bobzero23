@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Bobzero
-- 👀 I’m super interested in learning new coding stuffs
-- 🌱 I’m currently learning Java For Back-end, Front-end and Data Structures.
-- 💞️ I’m looking forward to collaborate with anyone
-- 📫 Reach me here rajabu.mustafa.00@gmail.com
-
 <h1 align="center">Hi 👋, I'm Bobzero</h1>
 <h3 align="center">A computer engineer from Turkey</h3>
+<h3 align="center">I’m super interested in learning new coding stuffs</h3>
+<h3 align="center">I’m currently learning Java For Back-end, Front-end and Data Structures.</h3>
+<h3 align="center">I’m looking forward to collaborate with anyone</h3>
+<h3 align="center">Reach me here rajabu.mustafa.00@gmail.com</h3>
 
 
 - 📫 How to reach me **umitsayin1661@gmail.com**
