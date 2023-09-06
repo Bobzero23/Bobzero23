@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spring Framework Project<br>👯 I’m looking to collaborate on any kind of projects<br>🤝 I’m looking for intern or part time job to hone my skills<br>🌱 I’m currently learning Backend and Frontend Development<br>💬 Ask me about ANYTHING<br>⚡ Fun fact -: Code with your heart.
+Hard working student with experience in developing web applications using HTML, CSS, JavaScript, Node.js, and React. Adept at developing and deploying backend systems, web services and databases. Respectful self-motivator gifted at finding reliable solutions for software issues. Experienced in problem-solving and coding and offering skills in backend and frontend. Fluent in Java and accustomed to working with cross-cultural, global teams.
 
 
 ## 🌐 Socials:
