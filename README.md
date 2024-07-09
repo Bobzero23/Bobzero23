@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hard working student with experience in developing web applications using HTML, CSS, JavaScript, Node.js, and React. Adept at developing and deploying backend systems, web services and databases. Respectful self-motivator gifted at finding reliable solutions for software issues. Experienced in problem-solving and coding and offering skills in backend and frontend. Fluent in Java and accustomed to working with cross-cultural, global teams.
+Dedicated Computer Engineering graduate with five years of hands-on experience in web and software development. Completed four internships, gaining valuable real-world experience and proficiency in various web technologies. Passionate about learning new technologies and continuously enhancing technical skills.
 
 
 ## 🌐 Socials:
