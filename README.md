@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dedicated Computer Engineering graduate with five years of hands-on experience in web and software development. Completed four internships, gaining valuable real-world experience and proficiency in various web technologies. Passionate about learning new technologies and continuously enhancing technical skills.
+Dedicated Computer Engineering graduate with years of hands-on experience in web and software development. Completed four internships, gaining valuable real-world experience and proficiency in various web technologies. Passionate about learning new technologies and continuously enhancing technical skills.
 
 
 ## 🌐 Socials:
